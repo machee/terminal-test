@@ -1,0 +1,7 @@
+Playing around with running a terminal "in the background" and sending input to it.  Next step is getting output from it.  Then the ??? step, and finally input and output via WebSockets.
+
+Inspired by Nitrous.IO and GateOne.
+
+Thanks to these guys for the starting point:
+https://github.com/kr/pty
+https://github.com/james4k/terminal
